@@ -1,0 +1,14 @@
+# Données confidentielles et fichiers locaux
+data/
+*.xlsx
+*.csv
+
+# Environnement virtuel et cache Python
+venv/
+__pycache__/
+*.pyc
+
+# Fichiers de configuration et sauvegardes
+.env
+.vscode/
+.idea/
